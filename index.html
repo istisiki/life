@@ -305,10 +305,11 @@ h1{
 
 			return '<div class="event event_' + counter + ' ' + d.css + '" style="margin-left: ' + offset.toFixed(2) + 'px">'
 				+ '<div class="time" style="width: ' + width.toFixed(2) + 'px"></div>'
-        + '<b>' + d.time.title + '</b> ' 
-        + '<span title="' + d.text + '">' + d.text + '</span>'
+        + '<b>' + d.time.title + '</b> '
+        + '<span title="' + d.text.replace(/<\/?[^>]+(>|$)/g,'') + '">' + d.text + '</span>'
 				+ '</div>';
-		},
+    },
+
 		renderYears: function(firstYear, lastYear){
 			var dayLength = life.config.yearLength/12/30;
 			var html = '';

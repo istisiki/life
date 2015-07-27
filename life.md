@@ -7,7 +7,7 @@ Stacey's Life
 - [wrk]~2001 First Program in C
 - [edu]06/2004-03/2008 University ([University of the Philippines](http://www.up.edu.ph/) - Cebu Campus)
 - [tch]02/07/2006-~ First Computer (personal build)
-- [wrk]2006-03/2008 Internship (Northern Transcription Works - C# Trainee)
+- [wrk]2006-03/2008 Internship ([Northern Transcription Works](http://northernworx.com/) - C# Trainee)
 - [tch]03/2008 Computer's hard disk died and replaced
 - [wrk]04/2008-01/2009 Software Developer (NetFlex Technologies)
 - [mus]10/2008-12/2010 Music Teacher (Cebu Music Learning Center)
@@ -15,9 +15,9 @@ Stacey's Life
 - [tch]03/2009-~ First Laptop (Lenovo ThinkPad y410)
 - [mus]12/2009 Auditioned for Peace Philharmonic Orchestra
 - [tch]~2010 Laptop's battery died
-- [wrk]12/2010-05/2012 Web Developer (Trax Technologies, Inc.)
+- [wrk]12/2010-05/2012 Web Developer ([Trax Technologies, Inc.](https://traxtech.com/))
 - [spo]12/02/2012 First Half Marathon (SM2SM II)
-- [wrk]05/2012-~ Software Enginner (Caresharing, Inc.)
+- [wrk]05/2012-~ Software Enginner ([Caresharing, Inc.](http://caresharing.com/))
 - [tch]12/2012-~ Second Laptop (MacBook Pro)
 - []12/10/2013-16/10/2013 First Out of the country trip (Hong Kong, Macau)
 - [mus]06/11/2013 First Rehearsal with Cebu Philharmonic Orchestra

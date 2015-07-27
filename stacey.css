@@ -5,10 +5,10 @@
 .event > span {
   display: inline-block;
   vertical-align: bottom;
-  /* max-width: 250px;
+  max-width: 250px;
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis; */
+  text-overflow: ellipsis;
 }
 
 #life .event .time {
@@ -37,4 +37,8 @@
 
 #life .event.spo .time {
   border-color: #a16ccf;
+}
+
+#life-years {
+  z-index: -9999 !important;
 }
