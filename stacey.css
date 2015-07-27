@@ -1,0 +1,3 @@
+.year:nth-child(10n) {
+  border-right: 1px solid #56626d;
+}

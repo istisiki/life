@@ -4,8 +4,8 @@
 - ~1987 Born
 - 06/1992-03/1994 Kindergarten
 - 06/1994-03/2000 Primary School (Catbalogan I Central Elementary School)
-- 06/2000-03/2004 Secondary School (Philippine Science High School - Eastern Visayas Campus)
-- 06/2004-03/2008 University (University of the Philippines - Cebu Campus)
+- 06/2000-03/2004 Secondary School ([Philippine Science High School](http://pshs.edu.ph/) - Eastern Visayas Campus)
+- 06/2004-03/2008 University ([University of the Philippines](http://www.up.edu.ph/) - Cebu Campus)
 
 - 02/07/2006-~ First Computer (personal build)
 - 03/2008 Computer's hard disk died and replaced
