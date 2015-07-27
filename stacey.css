@@ -1,3 +1,40 @@
 .year:nth-child(10n) {
   border-right: 1px solid #31373e;
 }
+
+.event > span {
+  display: inline-block;
+  vertical-align: bottom;
+  /* max-width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; */
+}
+
+#life .event .time {
+  opacity: 0.5;
+}
+
+#life .event:hover .time {
+  opacity: 0.7
+}
+
+#life .event.edu .time {
+  border-color: #935802;
+}
+
+#life .event.tch .time {
+  border-color: #329098;
+}
+
+#life .event.wrk .time {
+  border-color: #a8031c;
+}
+
+#life .event.mus .time {
+  border-color: #1e7a4b;
+}
+
+#life .event.spo .time {
+  border-color: #a16ccf;
+}
