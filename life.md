@@ -4,8 +4,7 @@
 - ~1987 Born
 - 06/1992-03/1994 Kindergarten
 - 06/1994-03/2000 Primary School (Catbalogan I Central Elementary School)
-- 06/2000-03/2004 Secondary School (Philippine Science High School - Eastern
-  Visayas Campus)
+- 06/2000-03/2004 Secondary School (Philippine Science High School - Eastern Visayas Campus)
 - 06/2004-03/2008 University (University of the Philippines - Cebu Campus)
 
 - 02/07/2006-~ First Computer (personal build)
@@ -24,18 +23,14 @@
 - 12/02/2012 First Half Marathon (SM2SM II)
 - 12/01/2014 First Attempt at a Full Marathon (Cebu City Marathon)
 - 09/03/2014 First Ultramarathon (3rd All Women's Ultramarathon)
-- 24/10/2014-26/10/2014 Guinness World Record attempt simulation, 40
-  hours non-stop football
-- 02/12/2014-06/12/2014 Kick for Life: Football Marathon 101 (Guinness
-  World Record attempt for longest football match, 101 hours non-stop
-football)
+- 24/10/2014-26/10/2014 Guinness World Record attempt simulation, 40 hours non-stop football
+- 02/12/2014-06/12/2014 Kick for Life: Football Marathon 101 (Guinness World Record attempt for longest football match, 101 hours non-stop football)
 - 01/02/2015 First Tattoo (Traditional Batok Tattoo from Kalinga)
 
 - 10/2008-12/2010 Music Teacher (Cebu Music Learning Center)
 - 12/2009 Auditioned for Peace Philharmonic Orchestra
 - 01/2014-~ [My Dragon Eats Cat Food](https://www.facebook.com/MyDragonEatsCatFood) was born
-- 09/12/2014 - Panamgo by MDECF [won Best Original Song](https://www.facebook.com/mindanaofilmfest/posts/739606226121840?fref=nf)
-as [Kasikas sa Panumduman](https://www.facebook.com/kasikas.sa.panumduman?fref=ts)'s soundtrack
+- 09/12/2014 - Panamgo by MDECF [won Best Original Song](https://www.facebook.com/mindanaofilmfest/posts/739606226121840?fref=nf) as [Kasikas sa Panumduman](https://www.facebook.com/kasikas.sa.panumduman?fref=ts)'s soundtrack
 - 03/2015-~ [Silingan ni Felicity](https://www.facebook.com/pages/Silingan-Ni-Felicity/836683136404332) was born
 
 
