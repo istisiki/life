@@ -39,6 +39,26 @@
   border-color: #a16ccf;
 }
 
+#life .event.cty .time {
+  border-color: #05ae10;
+}
+
+#life .event.alrt .time {
+  border-color: #ff0000;
+  opacity: 0.8;
+}
+
+#life .event.alrt:hover .time {
+  opacity: 1;
+}
+
+#life .event.alrt > span {
+  color: #f90240;
+}
+#life .event.alrt > b {
+  color: #d70238;
+}
+
 #life-years {
   z-index: -9999 !important;
 }

@@ -1,6 +1,9 @@
 Stacey's Life
 ===============
 
+- [cty]1992-05/2000 Catbalogan, Samar
+- [cty]06/2000-04/2003 Tacloban, Leyte
+- [cty]06/2004-~ Cebu City, Cebu
 - [edu]06/1992-03/1994 Kindergarten (Dorcas Daycare Center)
 - [edu]06/1994-03/2000 Primary School (Catbalogan I Central Elementary School)
 - [edu]06/2000-03/2004 Secondary School ([Philippine Science High School](http://pshs.edu.ph/) - Eastern Visayas Campus)
@@ -20,6 +23,7 @@ Stacey's Life
 - [wrk]05/2012-~ Software Enginner ([Caresharing, Inc.](http://caresharing.com/))
 - [tch]12/2012-~ Second Laptop (MacBook Pro)
 - []12/10/2013-16/10/2013 First Out of the country trip (Hong Kong, Macau)
+- [alrt]11/07/2013 Yolanda hit Tacloban
 - [mus]06/11/2013 First Rehearsal with Cebu Philharmonic Orchestra
 - [mus]01/2014-~ [My Dragon Eats Cat Food](https://www.facebook.com/MyDragonEatsCatFood)
 - [spo]12/01/2014 First Attempt at a Full Marathon (Cebu City Marathon)
