@@ -20,7 +20,7 @@ Stacey's Life
 - [tch]~2010 Laptop's battery died
 - [wrk]12/2010-05/2012 Web Developer ([Trax Technologies, Inc.](https://traxtech.com/))
 - [spo]12/02/2012 First Half Marathon (SM2SM II)
-- [wrk]05/2012-~ Software Enginner ([Caresharing, Inc.](http://caresharing.com/))
+- [wrk]05/2012-09/2017 Software Enginner ([Caresharing, Inc.](http://caresharing.com/))
 - [tch]12/2012-~ Second Laptop (MacBook Pro)
 - []12/10/2013-16/10/2013 First Out of the country trip (Hong Kong, Macau)
 - [alrt]11/07/2013 Yolanda hit Tacloban
@@ -33,4 +33,5 @@ Stacey's Life
 - [mus]09/12/2014 Panamgo by MDECF [won Best Original Song](https://www.facebook.com/mindanaofilmfest/posts/739606226121840?fref=nf) as [Kasikas sa Panumduman](https://www.facebook.com/kasikas.sa.panumduman?fref=ts)'s soundtrack
 - []01/02/2015 First Tattoo (Traditional Batok Tattoo from Kalinga)
 - [mus]03/2015-~ [Silingan ni Felicity](https://www.facebook.com/pages/Silingan-Ni-Felicity/836683136404332)
+- [wrk]09/2017-~ Yeadz, Ptd
 
